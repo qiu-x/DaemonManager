@@ -1,0 +1,4 @@
+name = "Sleep"
+desc = "sleeps for 1000 secs"
+exec = "/bin/sleep 10"
+type = "normal"

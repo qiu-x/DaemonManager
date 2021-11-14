@@ -1,0 +1,5 @@
+name = "Sleep"
+desc = "sleeps for 1000 secs"
+exec = "/bin/sleep 9"
+autorestart = false
+type = "normal"

@@ -1,0 +1,6 @@
+name = "St"
+desc = "Starts st"
+exec = "/usr/local/bin/st -e sleep 3"
+type = "normal"
+required_services = [ "Sleep" ]
+target = "Terminals"
